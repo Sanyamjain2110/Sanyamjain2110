@@ -21,7 +21,8 @@
 <a href="https://linkedin.com/in/sanyam-jain-9a17b6209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyam-jain-9a17b6209" height="30" width="40" /></a>
 <a href="https://fb.com/sanyam jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanyam jain" height="30" width="40" /></a>
 <a href="https://instagram.com/sanyamjain_2110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyamjain_2110" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sanyam jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanyam jain" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sanyamjain1716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sanyamjain1716" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/genie_halo_39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="genie_halo_39" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
